@@ -1,6 +1,5 @@
-# Hard Label Black-box Adversarial Attacks
-
-This is code associated with the paper ADD: An adversarial direction-guided decision-based attack via multiple surrogate models.
+# 
+This is code associated with the paper ADDA: An adversarial direction-guided decision-based attack via multiple surrogate models.
 
 Requirements:
 
